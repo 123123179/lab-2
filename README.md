@@ -22,3 +22,15 @@ task 4
 
 3) browser url
 <img width="912" height="179" alt="{579EF521-6A3F-4278-8746-A2B06F14C94B}" src="https://github.com/user-attachments/assets/c9bdb6d4-03fa-4094-9c9d-6d3b71b0bcf0" />
+
+task 5
+
+1) today
+<img width="501" height="172" alt="{8F6F8491-A286-45E2-ADDE-06976CD5BC2F}" src="https://github.com/user-attachments/assets/023e1293-0b2a-4162-9d03-2cf583543464" />
+
+2) yesterday
+<img width="542" height="158" alt="{4E5BC358-7A27-4E26-97E1-F3F1FBA87A11}" src="https://github.com/user-attachments/assets/60362be1-b516-40e2-82ab-562b425aee60" />
+
+3) week ago
+<img width="815" height="241" alt="{53C8C588-C897-4AB2-AE11-83B250135462}" src="https://github.com/user-attachments/assets/2faa22b6-e1a0-467c-8438-3c6efcb0fd12" />
+
